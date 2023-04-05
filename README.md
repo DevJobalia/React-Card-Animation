@@ -23,10 +23,13 @@ npm install framer-motion
 To deploy this project run
 
 `If not in app directory `
+
 ```bash
   cd card-expand
 ```
+
 `Else just type`
+
 ```bash
   npm start
 ```
@@ -39,6 +42,6 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 # Credits
-[@developedbyed](https://youtu.be/W0bEL93tt4k?list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE)
+[@developedbyed](https://www.youtube.com/watch?v=rZ6iu5FQr2c)
 
 
